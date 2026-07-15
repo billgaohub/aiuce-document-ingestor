@@ -1,6 +1,9 @@
 > ⚠️ **Deprecated — legacy AIUCE family.** This repo is being consolidated into **SONUV** / **AIOBR** / a unified history archive (2026). No new work is accepted. Current status: **[aiuce.com](https://aiuce.com)**. _Marked 2026-07-15._
 >
 > _本仓库属旧 AIUCE 体系，正整合进 SONUV / AIOBR / 统一历史归档，不再接受新改动；最新状态见 aiuce.com。_
+> **Disposition**: **Migrate → SONUV / AIOBR**
+> **处置**：可验证接口/测试将整合进 SONUV 或 AIOBR（运行时/治理能力）；本仓不再作为独立产品维护，源码迁移待目标仓就绪。
+
 
 # aiuce-document-ingestor
 
